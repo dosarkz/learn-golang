@@ -1,7 +1,6 @@
 package main
 
 import (
-	"awesomeProject/greetings"
 	"fmt"
 	"log"
 )
